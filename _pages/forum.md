@@ -1,6 +1,6 @@
 ---
 ID: 56
-post_title: Forum
+post_title: Inbox
 author: ng23055
 post_excerpt: ""
 layout: page
